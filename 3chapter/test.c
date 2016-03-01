@@ -10,7 +10,8 @@ int main()
 	for(auto &c : s1 )
 		c = toupper(c);
 	cout << s1 << endl;
-
+	
+	int arr[12-2];
 
 	string ss;
 	cout << ss[0] << endl;
